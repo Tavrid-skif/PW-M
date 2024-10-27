@@ -1,0 +1,7 @@
+E:\С#\PW\PW_02\bin\Debug\PW_02.exe.config
+E:\С#\PW\PW_02\bin\Debug\PW_02.exe
+E:\С#\PW\PW_02\bin\Debug\PW_02.pdb
+E:\С#\PW\PW_02\obj\Debug\PW_02.csproj.AssemblyReference.cache
+E:\С#\PW\PW_02\obj\Debug\PW_02.csproj.CoreCompileInputs.cache
+E:\С#\PW\PW_02\obj\Debug\PW_02.exe
+E:\С#\PW\PW_02\obj\Debug\PW_02.pdb
